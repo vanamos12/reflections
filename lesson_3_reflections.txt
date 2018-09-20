@@ -1,2 +1,14 @@
 When will you want to create a remote repository rather than keeping all you work local?
   When i want to share my work or when i don' want to loose my work (my harddrive can crash)
+Why might you want to always pull changes manually rather than having Git automatically stay 
+up-to-date with your remote repository?
+	When i am applying modifications to my work i don't want to always pull changes
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	Forks creates a similar repository in my account in GIthub 
+		i do it when i don't have the right to modify the initial repository 
+	Clones create a similar repository in my computer.
+	    I do it when i have the right to modify the repository or when i just want a copy 
+		of the repository.
+	breanches creates a new comit which has the parent of the past branching commit.
+		i do it when i want to develop a new feature while conserving another feature.
