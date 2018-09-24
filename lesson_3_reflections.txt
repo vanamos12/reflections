@@ -16,3 +16,12 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 	I can use git diff to know the modifications introduced by the commit before doing a
 	fast-forward merge.
+	
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	Collaboration will be more efficient surely for automatic merge. 
+	It will be difficult to collaborate with conflicting merges or manual merges.
+	
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+    When creating a new branch other people can interact more easillly on the new feature you want to add.
+	When working in master there is less more conflict in the developpement of the application.
